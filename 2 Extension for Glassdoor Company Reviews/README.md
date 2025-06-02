@@ -86,6 +86,7 @@ Company Reviews,Glassdoor Link,Notes
 
 **Extension Overview**
 ![Extension Screenshot](Screenshots/Screenshot_1.png)
+
 *Main extension interface and functionality demonstration*
 
 ### Additional Screenshots
