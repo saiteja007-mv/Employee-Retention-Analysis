@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # Glassdoor-Company-Reviews-link-Extractor
-=======
-# Glassdoor Link Finder Chrome Extension
 
 A powerful Chrome extension that automatically finds Glassdoor review pages for a list of companies using DuckDuckGo search. Perfect for HR professionals, data analysts, and researchers who need to collect Glassdoor links efficiently.
 
@@ -83,24 +80,67 @@ Company Reviews,Glassdoor Link,Notes
 "Apple Reviews","NOT FOUND - No Glassdoor results in search","No Results"
 ```
 
-## 🎮 User Interface
+## 📸 Screenshots
 
-### Main Controls
-- **Start Search**: Begin processing company list
-- **Stop Search**: Halt processing and download partial results
-- **Download CSV**: Manually download current results
+### Extension Interface
 
-### Status Indicators
-- **⏳ Processing**: Shows "X/Y companies processed (Running in background)"
-- **✅ Completed**: Shows "Completed: X companies processed"
-- **🔴 Badge**: Extension badge shows "✓" when finished
+**Extension Overview**
+![Extension Screenshot](Screenshots/Screenshot_1.png)
+*Main extension interface and functionality demonstration*
 
-### Live Updates
-The popup refreshes every 2 seconds to show:
-- Current progress
-- Number of companies processed
-- Background processing status
-- Real-time results
+### Additional Screenshots
+
+*Note: Add more screenshots to the Screenshots folder and update this section with specific use cases:*
+
+**Initial Setup Screen**
+<!-- ![Extension Popup Initial](Screenshots/extension-popup-initial.png) -->
+*The main interface where you enter company names and start the search process*
+
+**Processing in Progress**
+<!-- ![Extension Processing](Screenshots/extension-processing.png) -->
+*Real-time progress display showing companies being processed in the background*
+
+**Completed Results**
+<!-- ![Extension Completed](Screenshots/extension-completed.png) -->
+*Final results showing all found Glassdoor links with download option*
+
+**Chrome Extension Badge**
+<!-- ![Extension Badge](Screenshots/extension-badge.png) -->
+*Extension badge notification showing completion status*
+
+### Browser Integration
+
+**Extension in Toolbar**
+<!-- ![Extension Toolbar](Screenshots/extension-toolbar.png) -->
+*Extension icon pinned to Chrome toolbar for easy access*
+
+**Background Processing**
+<!-- ![Background Processing](Screenshots/background-processing.png) -->
+*Extension continues working even when popup is closed - showing persistent processing*
+
+**CSV Download**
+<!-- ![CSV Download](Screenshots/csv-download.png) -->
+*Automatic CSV file download with formatted company review links*
+
+### Sample Output
+
+**Search Results Example**
+<!-- ![Search Results](Screenshots/search-results-example.png) -->
+*Example of search results showing found Glassdoor links for various companies*
+
+**DuckDuckGo Integration**
+<!-- ![DuckDuckGo Search](Screenshots/duckduckgo-search.png) -->
+*Behind-the-scenes view of DuckDuckGo search process*
+
+### Extension Management
+
+**Chrome Extensions Page**
+<!-- ![Chrome Extensions](Screenshots/chrome-extensions-page.png) -->
+*Extension loaded in Chrome's extension management page*
+
+**Developer Mode**
+<!-- ![Developer Mode](Screenshots/developer-mode.png) -->
+*Chrome Developer Mode enabled for loading unpacked extension*
 
 ## 🔧 Technical Details
 
@@ -247,5 +287,4 @@ The extension includes built-in delays and human-like behavior to:
 
 **Built for Employee Retention Analysis Projects** 📈
 
-*This extension was created to streamline the process of collecting Glassdoor company review links for data analysis and research purposes.* 
->>>>>>> 88f2494 (Extension files added)
+*This extension was created to streamline the process of collecting Glassdoor company review links for data analysis and research purposes.*
